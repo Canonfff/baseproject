@@ -20,7 +20,7 @@
         <common-io.version>2.6</common-io.version>
         <logback.version>1.1.7</logback.version>
         <common-codec.version>1.13</common-codec.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <!-- Add typical dependencies for a web application -->
