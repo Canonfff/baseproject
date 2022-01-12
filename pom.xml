@@ -14,7 +14,7 @@
         <version>2.0.1.RELEASE</version>
     </parent>
     <properties>
-        <dubbo-version>2.7.0</dubbo-version>
+        <dubbo-version>2.7.15</dubbo-version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <fastJson>1.2.62</fastJson>
         <common-io.version>2.6</common-io.version>
