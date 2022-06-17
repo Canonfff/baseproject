@@ -16,7 +16,7 @@
     <properties>
         <dubbo-version>2.7.0</dubbo-version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
-        <fastJson>1.2.62</fastJson>
+        <fastJson>1.2.83</fastJson>
         <common-io.version>2.6</common-io.version>
         <logback.version>1.1.7</logback.version>
         <common-codec.version>1.13</common-codec.version>
